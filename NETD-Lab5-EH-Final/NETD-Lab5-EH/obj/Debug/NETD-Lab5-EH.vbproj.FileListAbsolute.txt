@@ -1,0 +1,11 @@
+c:\users\ebhcz\documents\visual studio 2015\Projects\NETD-Lab5-EH\NETD-Lab5-EH\bin\Debug\NETD-Lab5-EH.exe.config
+c:\users\ebhcz\documents\visual studio 2015\Projects\NETD-Lab5-EH\NETD-Lab5-EH\bin\Debug\NETD-Lab5-EH.exe
+c:\users\ebhcz\documents\visual studio 2015\Projects\NETD-Lab5-EH\NETD-Lab5-EH\bin\Debug\NETD-Lab5-EH.pdb
+c:\users\ebhcz\documents\visual studio 2015\Projects\NETD-Lab5-EH\NETD-Lab5-EH\bin\Debug\NETD-Lab5-EH.xml
+c:\users\ebhcz\documents\visual studio 2015\Projects\NETD-Lab5-EH\NETD-Lab5-EH\obj\Debug\NETD-Lab5-EH.vbprojResolveAssemblyReference.cache
+c:\users\ebhcz\documents\visual studio 2015\Projects\NETD-Lab5-EH\NETD-Lab5-EH\obj\Debug\NETD_Lab5_EH.Resources.resources
+c:\users\ebhcz\documents\visual studio 2015\Projects\NETD-Lab5-EH\NETD-Lab5-EH\obj\Debug\NETD-Lab5-EH.vbproj.GenerateResource.Cache
+c:\users\ebhcz\documents\visual studio 2015\Projects\NETD-Lab5-EH\NETD-Lab5-EH\obj\Debug\NETD-Lab5-EH.exe
+c:\users\ebhcz\documents\visual studio 2015\Projects\NETD-Lab5-EH\NETD-Lab5-EH\obj\Debug\NETD-Lab5-EH.xml
+c:\users\ebhcz\documents\visual studio 2015\Projects\NETD-Lab5-EH\NETD-Lab5-EH\obj\Debug\NETD-Lab5-EH.pdb
+c:\users\ebhcz\documents\visual studio 2015\Projects\NETD-Lab5-EH\NETD-Lab5-EH\obj\Debug\NETD_Lab5_EH.frmTextEditor.resources
