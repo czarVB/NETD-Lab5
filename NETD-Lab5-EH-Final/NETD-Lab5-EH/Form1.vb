@@ -1,6 +1,5 @@
 ﻿'****************************************************************
 '* Name: Evan Heath
-'* Student ID: 100710750
 '* Date: Mar 29th, 2019
 '* Program Name: NETD Lab 5 - Text Editor
 '* Purpose: A generic text editor which can create, load, and save files. It can also cut, copy, and paste text for you
